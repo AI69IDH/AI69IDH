@@ -6,9 +6,7 @@
 Hi there!
 My name is Aleksandr!
 
- 
- ![My foto](https://github.com//AI69IDH/AI69IDH/blob/main/1681734253021.jpg?raw=true)
-
+![Brain](https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png)
 
 Here are some ideas to get you started:
 
