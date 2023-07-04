@@ -6,7 +6,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
 </picture>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] (https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png)
 
 
 
