@@ -7,7 +7,7 @@ Hi there!
 My name is Aleksandr!
 
  
- ![my foto](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)
+ ![my foto](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG?raw=true))
 
 
 Here are some ideas to get you started:
