@@ -6,11 +6,9 @@
 Hi there!
 My name is Aleksandr!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
-  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
-  <img alt="This is my foto" src="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
-</picture>
+ 
+ ![my foto](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)
+
 
 Here are some ideas to get you started:
 
