@@ -7,9 +7,9 @@ Hi there!
 My name is Aleksandr!
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
 </picture>
 
 Here are some ideas to get you started:
