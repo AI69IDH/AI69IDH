@@ -7,9 +7,9 @@ Hi there!
 My name is Aleksandr!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="1681734253021.JPEG">
-  <source media="(prefers-color-scheme: light)" srcset="1681734253021.JPEG">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="1681734253021.JPEG">
+  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
+  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
+  <img alt="This is my foto" src="(https://github.com/AI69IDH/AI69IDH/blob/main/1681734253021.JPEG)">
 </picture>
 
 Here are some ideas to get you started:
