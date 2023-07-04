@@ -7,7 +7,7 @@ Hi there!
 My name is Aleksandr!
 
  
- ![My foto](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ ![My foto](https://github.com//AI69IDH/AI69IDH/blob/main/1681734253021.jpg?raw=true)
 
 
 Here are some ideas to get you started:
