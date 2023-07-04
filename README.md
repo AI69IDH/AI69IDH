@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png)
+
+
+
 <!--
 **AI69IDH/AI69IDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
