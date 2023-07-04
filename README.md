@@ -8,6 +8,12 @@ My name is Aleksandr!
 
 ![Brain](https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
+</picture>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
