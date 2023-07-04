@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/png-transparent-human-brain.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/O1CN019f71iD1xS1ksFH5Ao_!!6000000006441-0-tbvideo.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AI69IDH/AI69IDH/blob/main/O1CN019f71iD1xS1ksFH5Ao_!!6000000006441-0-tbvideo.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."src="https://github.com/AI69IDH/AI69IDH/blob/main/O1CN019f71iD1xS1ksFH5Ao_!!6000000006441-0-tbvideo.jpg">
 </picture>
 
